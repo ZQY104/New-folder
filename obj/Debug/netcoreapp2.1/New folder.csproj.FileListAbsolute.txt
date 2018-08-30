@@ -1,0 +1,11 @@
+Z:\New folder\bin\Debug\netcoreapp2.1\New folder.deps.json
+Z:\New folder\bin\Debug\netcoreapp2.1\New folder.runtimeconfig.json
+Z:\New folder\bin\Debug\netcoreapp2.1\New folder.runtimeconfig.dev.json
+Z:\New folder\bin\Debug\netcoreapp2.1\New folder.dll
+Z:\New folder\bin\Debug\netcoreapp2.1\New folder.pdb
+Z:\New folder\obj\Debug\netcoreapp2.1\New folder.csprojAssemblyReference.cache
+Z:\New folder\obj\Debug\netcoreapp2.1\New folder.csproj.CoreCompileInputs.cache
+Z:\New folder\obj\Debug\netcoreapp2.1\New folder.AssemblyInfoInputs.cache
+Z:\New folder\obj\Debug\netcoreapp2.1\New folder.AssemblyInfo.cs
+Z:\New folder\obj\Debug\netcoreapp2.1\New folder.dll
+Z:\New folder\obj\Debug\netcoreapp2.1\New folder.pdb
